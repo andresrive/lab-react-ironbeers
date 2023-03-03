@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.beerListImg {
+  width:auto;
+  height: 200px;
+}
+
+.imgCard {
+  height: 200px;
+}
